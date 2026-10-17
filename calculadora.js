@@ -46,6 +46,6 @@ function calcular(op, n1, n2) {
 
 // 4. Ejecutar la función e imprimir el resultado en la consola
 const mensajeResultado = calcular(operacion, num1, num2);
-console.log("========================================");
+console.log("===================================");
 console.log(mensajeResultado);
-console.log("========================================");
+console.log("===================================");
